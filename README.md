@@ -4,8 +4,6 @@
 ## Project Overview
 This project hosts modified versions of the Instagram app (309.1.0.41.113) that include an SSL bypassing patch. This feature enables the interception and analysis of encrypted traffic, particularly focusing on Instagram's private APIs. The repository includes builds for different architectures to support a wide range of Android devices.
 
-## Important Security Information 🛡️
-
 ### Custom SSL Certificate Warning 🔴
 - **Notice:** Users may encounter a security warning indicating that the APKs are unsafe. This warning is triggered by the custom SSL certificate used for signing the APKs.
 
@@ -17,6 +15,7 @@ This project hosts modified versions of the Instagram app (309.1.0.41.113) that 
 
 ### User Responsibility ⚠️
 - **Caution:** Users should understand the implications of bypassing SSL and ensure they are complying with legal and ethical guidelines in their use of these APKs.
+
 
 ## App Details
 - **App Name:** Instagram
