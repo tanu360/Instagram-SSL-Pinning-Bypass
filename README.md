@@ -26,15 +26,15 @@ This project hosts modified versions of the Instagram app (309.1.0.41.113) that 
 
 ## Modified APK Files
 
-### Instagram_309.1.0.41.113_x86_nr.apk
+### Instagram_309.1.0.41.113_x86.apk
 - **Architecture:** x86
 - **Description:** This version is tailored for devices or emulators that operate on an x86 architecture. It is ideal for debugging on x86 Android emulators.
 
-### Instagram_309.1.0.41.113_armeabi-v7a_nr.apk
+### Instagram_309.1.0.41.113_armeabi-v7a.apk
 - **Architecture:** ARM (armeabi-v7a)
 - **Description:** This build is compatible with older and lower-end devices that use ARM architecture. It ensures broader compatibility, particularly with devices that do not support newer ARM versions.
 
-### Instagram_309.1.0.41.113_arm64-v8a_nr.apk
+### Instagram_309.1.0.41.113_arm64-v8a.apk
 - **Architecture:** ARM64 (arm64-v8a)
 - **Description:** Optimized for modern devices with ARM64 architecture, this APK offers enhanced performance and stability on the latest Android devices.
 
@@ -42,9 +42,9 @@ This project hosts modified versions of the Instagram app (309.1.0.41.113) that 
 
 | APK File | Architecture | Description |
 |----------|--------------|-------------|
-| Instagram_309.1.0.41.113_x86_nr.apk | x86 | Suitable for x86 devices/emulators. Ideal for debugging on x86 platforms. |
-| Instagram_309.1.0.41.113_armeabi-v7a_nr.apk | ARM (armeabi-v7a) | Compatible with older and low-end ARM devices. Ensures broader device compatibility. |
-| Instagram_309.1.0.41.113_arm64-v8a_nr.apk | ARM64 (arm64-v8a) | Optimized for modern ARM64 devices. Provides enhanced performance and stability. |
+| Instagram_309.1.0.41.113_x86.apk | x86 | Suitable for x86 devices/emulators. Ideal for debugging on x86 platforms. |
+| Instagram_309.1.0.41.113_armeabi-v7a.apk | ARM (armeabi-v7a) | Compatible with older and low-end ARM devices. Ensures broader device compatibility. |
+| Instagram_309.1.0.41.113_arm64-v8a.apk | ARM64 (arm64-v8a) | Optimized for modern ARM64 devices. Provides enhanced performance and stability. |
 
 ## Features
 - **SSL Bypass Patch:** Enables the interception of encrypted network traffic, facilitating the analysis of Instagram's private API calls.
